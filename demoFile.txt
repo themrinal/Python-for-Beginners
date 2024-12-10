@@ -1,0 +1,22 @@
+CBSE CLASS 12 COMPUTER SCIENCE SYLLABUS
+UNIT 2: NETWORKING
+
+● Evolution of networking: introduction to computer networks, evolution of networking 
+(ARPANET, NSFNET, INTERNET) 
+● Data communication terminologies: concept of communication, components of 
+data communication (sender,receiver, message, communication media, 
+protocols), measuring capacity of communication media (bandwidth, data 
+transfer rate), IP address, switching techniques (Circuit switching, Packet 
+switching) 
+● Transmission media: Wired communication media (Twisted pair cable, Co-axial 
+cable, Fiber-optic cable), Wireless media (Radio waves, Micro waves, Infrared 
+waves) 
+● Network devices (Modem, Ethernet card, RJ45, Repeater, Hub, Switch, Router, 
+Gateway, WIFI card) 
+● Network topologies and Network types: types of networks (PAN, LAN, MAN, 
+WAN), networking topologies (Bus, Star, Tree) 
+● Network protocol: HTTP, FTP, PPP, SMTP, TCP/IP, POP3, HTTPS, TELNET, 
+VoIP 
+● Introduction to web services: WWW, Hyper Text Markup Language (HTML), 
+Extensible Markup Language (XML), domain names, URL, website, web 
+browser, web servers, web hosting
